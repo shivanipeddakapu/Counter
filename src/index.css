@@ -1,0 +1,37 @@
+body{
+  height: 300px;
+  width: 300px;
+
+}
+.container{
+  height: 200px;
+  width: 200px;
+  margin-top: 200px;
+  margin-left: 500px;
+}
+button{
+  height: 70px;
+  width: 70px;
+  border-radius: 50%;
+  background-color: yellow;
+  
+}
+#btn1{
+margin-top: -420px;
+padding-left: 15px;
+
+}
+#btn2{
+  margin-left: 440px;
+  padding-bottom: 40px;
+ 
+  
+}
+#btn3{
+ padding-left: 242px;
+ margin-top: -70px;
+}
+h1{
+  padding-left: 40px;
+ 
+}
